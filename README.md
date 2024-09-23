@@ -1,2 +1,2 @@
 # ppc-lab
-lab work for principles of programming languages
+cj's lab work for principles of programming languages
